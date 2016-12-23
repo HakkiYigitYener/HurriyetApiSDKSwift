@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HurriyetApiSDKSwift_Tests' do
+  pod 'HurriyetApiSDKSwift', :path => '../'
+  
+  
+end
